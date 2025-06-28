@@ -6,16 +6,16 @@
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔐 User authentication with JWT and bcrypt  
-- 🧑‍🤝‍🧑 Friend request system (send/accept/delete)  
-- 💬 Real-time messaging using Socket.IO  
-- 📁 Image and file sharing via Cloudinary  
-- 📦 Group chat support (future scope)  
-- 🔎 Search and filter contacts  
-- 🌐 Presence indicator (online/offline)  
-- ⚙️ Modern responsive UI with Tailwind CSS  
+- User authentication with JWT and bcrypt  
+- Friend request system (send/accept/delete)  
+- Real-time messaging using Socket.IO  
+- Image and file sharing via Cloudinary  
+- Group chat support (future scope)  
+- Search and filter contacts  
+- Presence indicator (online/offline)  
+- ⚙Modern responsive UI with Tailwind CSS  
 
 ---
 
@@ -32,9 +32,9 @@
 
 ---
 
-## 🧑‍💻 Getting Started
+##  Getting Started
 
-### 📁 Clone the repository
+###  Clone the repository
 
 ```bash
 git clone https://github.com/Amanihh/CHAT_APP_.git
