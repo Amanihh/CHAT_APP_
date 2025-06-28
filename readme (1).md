@@ -37,7 +37,7 @@
 ### 📁 Clone the repository
 
 ```bash
-git clone https://github.com/HirdeshPal888527/Realtime-Chat-app.git
+git clone https://github.com/Amanihh/CHAT_APP_.git
 cd Realtime-Chat-app
 ```
 
