@@ -1,0 +1,21 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build":"npm install --prefix backend && npm install --prefix front-end && npm run build --prefix front-end",
+    "start":"npm start --prefix  backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amanihh/chat_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amanihh/chat_app/issues"
+  },
+  "homepage": "https://github.com/Amanihh/chat_app#readme",
+  "description": ""
+}
