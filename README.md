@@ -40,3 +40,10 @@ This full-stack application enables users to chat instantly, share files, manage
 git clone https://github.com/Amanihh/CHAT_APP_.git
 cd CHAT_APP_
 
+### 🔧 Backend Setup
+
+Navigate to the `backend` folder and install dependencies:
+
+```bash
+cd backend
+npm install
